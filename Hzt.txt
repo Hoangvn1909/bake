@@ -1,2 +1,2 @@
-script_key = "KEY" -- Paste your key here or if the script is free put trial
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/9af75ffa0868c62e1591a3be0363aba3323396e743170764d9499ea2437ecf3c.lua"))()
+getgenv(). SCRIPT_KEY = "KEYLESS"
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/7a8079fbd6a9f69516f6219115176627bf17fe9393e9e09edb2968bea3182fec/download"))()
